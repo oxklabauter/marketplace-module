@@ -20,6 +20,6 @@
             "oxklabauter\\marketplace-module\\": ""
         }
     },
-  "minimum-stability": "stable",
+  "minimum-stability": "none",
   "prefer-stable": true
 }
